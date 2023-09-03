@@ -1,6 +1,6 @@
 fav_animals = ['fox', 'panda', 'lion', 'cat']
 print (fav_animals)
-print ("panda")
+print (fav_animals[1])
 fav_animals.remove('lion')
 print (fav_animals)
 
